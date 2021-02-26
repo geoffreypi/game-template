@@ -15,7 +15,7 @@ public class MoveableObject : MonoBehaviour
     {
         Vector3 displacement = Vector3.zero;
         displacement.z -= GameManager.instance.currentMoveSpeed * Time.deltaTime;
-        displacement.x -= Input.GetAxis("Horizontal") * GameManager.instance.currentMoveSpeed * Time.deltaTime;
+        displacement.x -= GameManager.instance.currentMoveAngle * GameManager.instance.currentMoveSpeed * Time.deltaTime;
         transform.position += displacement;
         if(transform.position.z < -5f)
         {

@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public float maxSpeed { get; private set; } = 1f;
     public float maxAcc { get; private set; } = 0.01f;
     public float currentMoveSpeed { get; private set; } = 0f;
+    public float currentMoveAngle { get; private set; } = 0f;
     [SerializeField] private Player player;
 
     
@@ -28,6 +29,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Forward speed
         if (Input.GetAxis("Vertical")>0)
         {
             currentMoveSpeed += maxAcc;
@@ -36,8 +38,11 @@ public class GameManager : MonoBehaviour
         {
             currentMoveSpeed -= maxAcc;
         }
-
         currentMoveSpeed = Mathf.Clamp(currentMoveSpeed, 0f, maxSpeed);
+
+        // Side-to-side speed
+        currentMoveAngle += Input.GetAxis("Horizontal")/60f;
+        currentMoveAngle = Mathf.Clamp(currentMoveAngle, -1f, 1f);
     }
 
     private void OnSpeedBoost()
