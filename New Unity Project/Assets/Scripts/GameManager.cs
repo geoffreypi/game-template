@@ -6,8 +6,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     public bool boosting = false;
-    public float maxSpeed { get; private set; } = 1f;
-    public float maxAcc { get; private set; } = 0.01f;
+    public float maxSpeed { get; private set; } = 5f;
+    public float maxAcc { get; private set; } = 0.05f;
     public float currentMoveSpeed { get; private set; } = 0f;
     public float currentMoveAngle { get; private set; } = 0f;
     [SerializeField] private Player player;

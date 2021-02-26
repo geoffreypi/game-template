@@ -19,9 +19,14 @@ public class MoveableObject : MonoBehaviour
         transform.position += displacement;
         if(transform.position.z < -5f)
         {
-            displacement = transform.position;
-            displacement.z = 42.5f;
-            transform.position = displacement;
+            Reset();
         }
+    }
+
+    public void Reset()
+    {
+        Vector3 displacement = transform.position;
+        displacement.z = 42.5f;
+        transform.position = displacement;
     }
 }
