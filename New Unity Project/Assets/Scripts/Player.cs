@@ -38,13 +38,8 @@ public class Player : MonoBehaviour
 
     private IEnumerator GoInvincible()
     {
-        float elapsed = 0f;
         invincible = true;
-        while(elapsed < 5f)
-        {
-            yield return null;
-            elapsed += Time.deltaTime;
-        }
+        yield return new WaitForSeconds(5f);
         invincible = false;
     }
 }
