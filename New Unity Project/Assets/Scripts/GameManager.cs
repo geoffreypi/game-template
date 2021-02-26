@@ -30,9 +30,13 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         // Forward speed
-        if (Input.GetAxis("Vertical")>0)
+        if (Input.GetAxis("Vertical") > 0)
         {
             currentMoveSpeed += maxAcc;
+        }
+        else if (Input.GetAxis("Vertical") == 0)
+        {
+            currentMoveSpeed -= maxAcc/4f;
         }
         else
         {
@@ -41,8 +45,15 @@ public class GameManager : MonoBehaviour
         currentMoveSpeed = Mathf.Clamp(currentMoveSpeed, 0f, maxSpeed);
 
         // Side-to-side speed
-        currentMoveAngle += Input.GetAxis("Horizontal")/60f;
-        currentMoveAngle = Mathf.Clamp(currentMoveAngle, -1f, 1f);
+        if (Input.GetAxis("Horizontal") == 0)
+        {
+            currentMoveAngle *= 0.95f;
+        }
+        else
+        {
+            currentMoveAngle += Input.GetAxis("Horizontal") / 60f;
+            currentMoveAngle = Mathf.Clamp(currentMoveAngle, -1f, 1f);
+        }
     }
 
     private void OnSpeedBoost()
