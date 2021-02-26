@@ -24,15 +24,17 @@ public class Player : MonoBehaviour
         if(other.gameObject.tag == "Invincible")
         {
             StartCoroutine("GoInvincible");
+            other.gameObject.GetComponent<MoveableObject>().Reset();
         }
         else if(other.gameObject.tag == "Speedboost")
         {
             EventManager.OnSpeedBoost();
+            other.gameObject.GetComponent<MoveableObject>().Reset();
         }
         else if (other.gameObject.tag == "Annoyance" && !invincible)
         {
-            // Do Something
             other.collider.enabled = false;
+            // Do Something
         }
     }
 
