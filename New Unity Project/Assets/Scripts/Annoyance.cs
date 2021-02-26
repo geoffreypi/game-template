@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Annoyance : MoveableObject
 {
-    [SerializeField] private Colldier collider;
+    [SerializeField] private Collider collider;
     // Start is called before the first frame update
     void Start()
     {
