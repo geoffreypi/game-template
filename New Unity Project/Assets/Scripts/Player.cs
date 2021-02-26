@@ -32,6 +32,7 @@ public class Player : MonoBehaviour
         else if (other.gameObject.tag == "Annoyance" && !invincible)
         {
             // Do Something
+            other.collider.enabled = false;
         }
     }
 

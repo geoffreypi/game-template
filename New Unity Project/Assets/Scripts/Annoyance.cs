@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Annoyance : MonoBehaviour
+public class Annoyance : MoveableObject
 {
+    [SerializeField] private Colldier collider;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,9 +14,10 @@ public class Annoyance : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 displacement = Vector3.zero;
-        displacement.z -= GameManager.instance.moveSpeed * Time.deltaTime;
-        displacement.x -= Input.GetAxis("Horizontal") * GameManager.instance.moveSpeed * Time.deltaTime;
-        transform.position += displacement;
+
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
     }
 }
