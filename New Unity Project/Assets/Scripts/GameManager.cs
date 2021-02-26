@@ -37,7 +37,7 @@ public class GameManager : MonoBehaviour
     {
         float elapsed = 0f;
         float duration = 5f;
-        moveSpeed *= 2;
+        moveSpeed *= 2f;
         while(elapsed < duration)
         {
             yield return null;

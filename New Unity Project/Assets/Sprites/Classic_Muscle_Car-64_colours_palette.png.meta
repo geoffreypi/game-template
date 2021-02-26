@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 614abedfe15aa41c7b166dd460f49fd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4160163339906575197
+    second: Classic_Muscle_Car-64_colours_palette_0
+  - first:
+      213: 5715729971301238863
+    second: Classic_Muscle_Car-64_colours_palette_1
+  - first:
+      213: 3544106747069766829
+    second: Classic_Muscle_Car-64_colours_palette_2
+  - first:
+      213: -4861217456851076153
+    second: Classic_Muscle_Car-64_colours_palette_3
+  - first:
+      213: -8618217183595306205
+    second: Classic_Muscle_Car-64_colours_palette_4
+  - first:
+      213: 6502489671775263249
+    second: Classic_Muscle_Car-64_colours_palette_5
+  - first:
+      213: 1612302406975068562
+    second: Classic_Muscle_Car-64_colours_palette_6
+  - first:
+      213: -7068996267620464627
+    second: Classic_Muscle_Car-64_colours_palette_7
+  - first:
+      213: 6719559673547417745
+    second: Classic_Muscle_Car-64_colours_palette_8
+  - first:
+      213: 1519390008717967145
+    second: Classic_Muscle_Car-64_colours_palette_9
+  - first:
+      213: 8702822444988428460
+    second: Classic_Muscle_Car-64_colours_palette_10
+  - first:
+      213: -6691506826622992126
+    second: Classic_Muscle_Car-64_colours_palette_11
+  - first:
+      213: -8966765254030653239
+    second: Classic_Muscle_Car-64_colours_palette_12
+  - first:
+      213: 9042447030501770874
+    second: Classic_Muscle_Car-64_colours_palette_13
+  - first:
+      213: -493988066064826727
+    second: Classic_Muscle_Car-64_colours_palette_14
+  - first:
+      213: 7823541933543511050
+    second: Classic_Muscle_Car-64_colours_palette_15
+  - first:
+      213: -6226016407882243477
+    second: Classic_Muscle_Car-64_colours_palette_16
+  - first:
+      213: -1371709326824776238
+    second: Classic_Muscle_Car-64_colours_palette_17
+  - first:
+      213: 9542824437912102
+    second: Classic_Muscle_Car-64_colours_palette_18
+  - first:
+      213: 2442300238746772747
+    second: Classic_Muscle_Car-64_colours_palette_19
+  - first:
+      213: -8759906402606274236
+    second: Classic_Muscle_Car-64_colours_palette_20
+  - first:
+      213: -938527934452698025
+    second: Classic_Muscle_Car-64_colours_palette_21
+  - first:
+      213: 6756323646765722628
+    second: Classic_Muscle_Car-64_colours_palette_22
+  - first:
+      213: 7068440236258887090
+    second: Classic_Muscle_Car-64_colours_palette_23
+  - first:
+      213: 6363699777204281646
+    second: Classic_Muscle_Car-64_colours_palette_24
+  - first:
+      213: -3879506522271269971
+    second: Classic_Muscle_Car-64_colours_palette_25
+  - first:
+      213: 4000401394571472755
+    second: Classic_Muscle_Car-64_colours_palette_26
+  - first:
+      213: 9207007029275429921
+    second: Classic_Muscle_Car-64_colours_palette_27
+  - first:
+      213: -2769283090150695324
+    second: Classic_Muscle_Car-64_colours_palette_28
+  - first:
+      213: 1272049525442108751
+    second: Classic_Muscle_Car-64_colours_palette_29
+  - first:
+      213: -3308903786501619842
+    second: Classic_Muscle_Car-64_colours_palette_30
+  - first:
+      213: -3506682721742855372
+    second: Classic_Muscle_Car-64_colours_palette_31
+  - first:
+      213: 1526796212070930745
+    second: Classic_Muscle_Car-64_colours_palette_32
+  - first:
+      213: 7248657976150243878
+    second: Classic_Muscle_Car-64_colours_palette_33
+  - first:
+      213: -5934939790471689280
+    second: Classic_Muscle_Car-64_colours_palette_34
+  - first:
+      213: 7338117949784386083
+    second: Classic_Muscle_Car-64_colours_palette_35
+  - first:
+      213: -8596985707819391213
+    second: Classic_Muscle_Car-64_colours_palette_36
+  - first:
+      213: 4995198478580938883
+    second: Classic_Muscle_Car-64_colours_palette_37
+  - first:
+      213: 1964301088621758423
+    second: Classic_Muscle_Car-64_colours_palette_38
+  - first:
+      213: -6074737898930627157
+    second: Classic_Muscle_Car-64_colours_palette_39
+  - first:
+      213: 8654159452199441815
+    second: Classic_Muscle_Car-64_colours_palette_40
+  - first:
+      213: 8687892087728338220
+    second: Classic_Muscle_Car-64_colours_palette_41
+  - first:
+      213: -5976950804518933826
+    second: Classic_Muscle_Car-64_colours_palette_42
+  - first:
+      213: -8701983132357017839
+    second: Classic_Muscle_Car-64_colours_palette_43
+  - first:
+      213: 8193536860640458333
+    second: Classic_Muscle_Car-64_colours_palette_44
+  - first:
+      213: -4474091487934175620
+    second: Classic_Muscle_Car-64_colours_palette_45
+  - first:
+      213: -7783035082380541303
+    second: Classic_Muscle_Car-64_colours_palette_46
+  - first:
+      213: -3174895374524133607
+    second: Classic_Muscle_Car-64_colours_palette_47
+  - first:
+      213: -4507241679618629086
+    second: Classic_Muscle_Car-64_colours_palette_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bebb2248edbb930800000000000000
+      internalID: 4160163339906575197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c67b202a525f40800000000000000
+      internalID: 5715729971301238863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac98291f423f2130800000000000000
+      internalID: 3544106747069766829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb6749a7c798cb0800000000000000
+      internalID: -4861217456851076153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32362aef121f56880800000000000000
+      internalID: -8618217183595306205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a9fc1a7eb7d3a50800000000000000
+      internalID: 6502489671775263249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299914e2f7c006610800000000000000
+      internalID: 1612302406975068562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d088be50951e5ed90800000000000000
+      internalID: -7068996267620464627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19865dcdbeba04d50800000000000000
+      internalID: 6719559673547417745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f79e0b925f51510800000000000000
+      internalID: 1519390008717967145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f4d877e2a6c870800000000000000
+      internalID: 8702822444988428460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201090b8efdf223a0800000000000000
+      internalID: -6691506826622992126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c800396286af8380800000000000000
+      internalID: -8966765254030653239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7608515aa93d7d70800000000000000
+      internalID: 9042447030501770874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7cee98700529f0800000000000000
+      internalID: -493988066064826727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04db3a00fdc29c60800000000000000
+      internalID: 7823541933543511050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ec6a501fb899a0800000000000000
+      internalID: -6226016407882243477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddd48782a5b6fce0800000000000000
+      internalID: -1371709326824776238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62296c4f527e12000800000000000000
+      internalID: 9542824437912102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056a55902bc4e120800000000000000
+      internalID: 2442300238746772747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449abfee98f8e6680800000000000000
+      internalID: -8759906402606274236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547a2fe0dda9f2f0800000000000000
+      internalID: -938527934452698025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cea096f8843cd50800000000000000
+      internalID: 6756323646765722628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50a46d1f4281260800000000000000
+      internalID: 7068440236258887090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e216e752b37605850800000000000000
+      internalID: 6363699777204281646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabb53c5f59392ac0800000000000000
+      internalID: -3879506522271269971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fe8629fd7448730800000000000000
+      internalID: 4000401394571472755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c8c70cc1cd5cf70800000000000000
+      internalID: 9207007029275429921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e5219a3b78199d0800000000000000
+      internalID: -2769283090150695324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d5ea4cd4a37a110800000000000000
+      internalID: 1272049525442108751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f30a999896412d0800000000000000
+      internalID: -3308903786501619842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433648ec4a2c55fc0800000000000000
+      internalID: -3506682721742855372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93956e8c015403510800000000000000
+      internalID: 1526796212070930745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62abcb63608689460800000000000000
+      internalID: 7248657976150243878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb8a9984bbd2ada0800000000000000
+      internalID: -5934939790471689280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae0d4756b36d560800000000000000
+      internalID: 7338117949784386083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a05a2c0f51b880800000000000000
+      internalID: -8596985707819391213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887362fc82825540800000000000000
+      internalID: 4995198478580938883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7863bce69924b10800000000000000
+      internalID: 1964301088621758423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad13a6f01232bba0800000000000000
+      internalID: -6074737898930627157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795dfe98b20c91870800000000000000
+      internalID: 8654159452199441815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2579f7c2d7919870800000000000000
+      internalID: 8687892087728338220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae9a819ea9d0da0800000000000000
+      internalID: -5976950804518933826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3b6a32785c3780800000000000000
+      internalID: -8701983132357017839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563b801d5a45b170800000000000000
+      internalID: 8193536860640458333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76a5191f75d8e1c0800000000000000
+      internalID: -4474091487934175620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820e4034da1df390800000000000000
+      internalID: -7783035082380541303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f457a6a7180f3d0800000000000000
+      internalID: -3174895374524133607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic_Muscle_Car-64_colours_palette_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222f71a29f0371c0800000000000000
+      internalID: -4507241679618629086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7a1342cb96104be29150fb4b1a92d52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

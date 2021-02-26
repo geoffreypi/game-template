@@ -13,6 +13,9 @@ public class Annoyance : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Vector3 displacement = Vector3.zero;
+        displacement.z -= GameManager.instance.moveSpeed * Time.deltaTime;
+        displacement.x -= Input.GetAxis("Horizontal") * GameManager.instance.moveSpeed * Time.deltaTime;
+        transform.position += displacement;
     }
 }

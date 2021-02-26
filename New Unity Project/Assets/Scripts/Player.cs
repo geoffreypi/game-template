@@ -17,10 +17,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetAxisRaw("Horizontal") != 0)
-        {
-            
-        }
+        animator.SetFloat("Turn", Input.GetAxis("Horizontal"));
     }
 
     private void OnCollisionEnter(Collision other) {
